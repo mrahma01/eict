@@ -4,6 +4,8 @@ Template Name: Daily Salah
 */
 get_header(); // Loads the header.php template. 
 ?>
+<meta name="viewport" content="width=1100" />
+
 <body id="page3">
   <div id="main">
   	<!-- header -->
